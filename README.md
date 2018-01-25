@@ -4,6 +4,5 @@
  - Angular app client
 
 
-To run 
-Just press F5.
+To run just press F5.
 
